@@ -1,7 +1,7 @@
 name: Weather App Build and Deploy
 
 on:
-  workflow_dispatch:: # Allows manual triggering of the workflow
+  workflow_dispatch: # Allows manual triggering of the workflow
   push: # Triggers the workflow on push events
     branches:
       - main
