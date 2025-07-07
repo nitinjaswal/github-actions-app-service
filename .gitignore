@@ -1,0 +1,12 @@
+bin/
+obj/
+sln/
+*.user
+*.suo
+*.cache
+*.log
+*.ncb
+.bin
+*.vsidx
+*.v2
+*.v9.bin
